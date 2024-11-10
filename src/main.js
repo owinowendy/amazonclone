@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import VueProgressBar from "@aacassandra/vue3-progressbar";
+import router from "./router";
 
 createApp(App).mount('#app')
 
